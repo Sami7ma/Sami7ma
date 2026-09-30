@@ -14,7 +14,7 @@ I design and build user-centric applications across web, mobile, and desktop env
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[MoniVO](https://github.com/Sami7ma/MoniVO-)** | Cross-platform personal finance mobile app designed for expense tracking, category budgeting, and financial monitoring. | React Native, Expo, TypeScript, Zustand, NativeWind |
+| **[MoniVO](https://github.com/firaflash/expense-tracker)** | Cross-platform personal finance mobile app designed for expense tracking, category budgeting, and financial monitoring. | React Native, Expo, TypeScript, Zustand, NativeWind |
 | **[AgriAgent](https://github.com/Sami7ma/AgriAgent)** | Agricultural management application delivering structured data and decision workflows for modern farming. | Flutter, Dart, REST APIs |
 | **[Pharmacy Management System](https://github.com/Sami7ma/Pharmacy-GUI)** | Desktop administration suite for managing pharmacy inventory, supplier orders, customers, and transactions. | Java, Java Swing, Microsoft SQL Server, JDBC |
 ---
