@@ -1,43 +1,91 @@
-# Samuel Mifta
+<div align="center">
 
-Software Developer focused on building clean, performant web applications, cross-platform mobile solutions, and reliable software systems.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=190&section=header&text=Samuel%20Mifta&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Developer&descSize=18&descAlignY=60" alt="Samuel Mifta" width="100%" />
 
----
+**Clean, performant apps across web, mobile, and desktop.**
 
-### Overview
+<a href="https://github.com/Sami7ma"><img src="https://img.shields.io/badge/GitHub-Sami7ma-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://img.shields.io/github/followers/Sami7ma?style=for-the-badge&color=6366f1&labelColor=0f172a" alt="Followers" />
 
-I design and build user-centric applications across web, mobile, and desktop environments. My work spans modern frontend interfaces, mobile application development, state management, and database-driven software architectures. I prioritize readable code, modular component design, and responsive user experiences.
-
----
-
-### Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[MoniVO](https://github.com/firaflash/expense-tracker)** | Cross-platform personal finance mobile app designed for expense tracking, category budgeting, and financial monitoring. | React Native, Expo, TypeScript, Zustand, NativeWind |
-| **[AgriAgent](https://github.com/Sami7ma/AgriAgent)** | Agricultural management application delivering structured data and decision workflows for modern farming. | Flutter, Dart, REST APIs |
-| **[Pharmacy Management System](https://github.com/Sami7ma/Pharmacy-GUI)** | Desktop administration suite for managing pharmacy inventory, supplier orders, customers, and transactions. | Java, Java Swing, Microsoft SQL Server, JDBC |
----
-
-### Technical Expertise
-
-* **Languages**: TypeScript, JavaScript (ES6+), Dart, Java, SQL, HTML5, CSS3
-* **Frontend & Mobile**: React, React Native (Expo), Flutter, Java Swing, Vite, Tailwind CSS / NativeWind
-* **State Management & Data**: TanStack Query, Zustand, Axios, REST APIs
-* **Databases & Storage**: Microsoft SQL Server, MySQL
-* **Tools & Workflow**: Git, GitHub, VS Code, Postman, ESLint
+</div>
 
 ---
 
-### Engineering Focus
+## ✦ About
 
-* **Component-Driven Architecture**: Building reusable, maintainable UI components with clean separation of concerns.
-* **Predictable State Management**: Implementing reliable asynchronous data fetching and centralized client-side state.
-* **Cross-Platform Compatibility**: Designing fluid, responsive experiences across desktop, mobile, and browser environments.
-* **Robust Data Modeling**: Structuring relational database schemas with data integrity and query performance in mind.
+I design and build user-centric software, from responsive web interfaces to cross-platform mobile apps and database-driven desktop systems. I care about readable code, modular components, and experiences that feel effortless to use.
+
+```ts
+const samuel = {
+  role: "Software Developer",
+  focus: ["Web", "Mobile", "Desktop"],
+  values: ["Clean code", "Modular design", "Great UX"],
+};
+```
 
 ---
 
-### Connect
+## ✦ Featured Projects
 
-* **GitHub**: [@Sami7ma](https://github.com/Sami7ma)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>💸 <a href="https://github.com/firaflash/expense-tracker">MoniVO</a></h3>
+      <p>Cross-platform personal finance app for expense tracking, category budgeting, and financial monitoring.</p>
+      <sub><b>React Native · Expo · TypeScript · Zustand · NativeWind</b></sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🌱 <a href="https://github.com/Sami7ma/AgriAgent">AgriAgent</a></h3>
+      <p>Agricultural management app delivering structured data and decision workflows for modern farming.</p>
+      <sub><b>Flutter · Dart · REST APIs</b></sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3>💊 <a href="https://github.com/Sami7ma/Pharmacy-GUI">Pharmacy System</a></h3>
+      <p>Desktop suite managing pharmacy inventory, supplier orders, customers, and transactions.</p>
+      <sub><b>Java · Swing · SQL Server · JDBC</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ✦ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,dart,java,html,css&theme=dark" alt="Languages" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,flutter,vite,tailwind,mysql&theme=dark" alt="Frameworks and databases" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,eslint&theme=dark" alt="Tools" />
+
+</div>
+
+| | |
+| :-- | :-- |
+| **Languages** | TypeScript, JavaScript (ES6+), Dart, Java, SQL, HTML5, CSS3 |
+| **Frontend & Mobile** | React, React Native (Expo), Flutter, Java Swing, Vite, Tailwind CSS / NativeWind |
+| **State & Data** | TanStack Query, Zustand, Axios, REST APIs |
+| **Databases** | Microsoft SQL Server, MySQL |
+| **Workflow** | Git, GitHub, VS Code, Postman, ESLint |
+
+---
+
+## ✦ Engineering Principles
+
+- **Component-driven architecture**: reusable UI with clear separation of concerns.
+- **Predictable state**: reliable async data fetching and centralized client state.
+- **Cross-platform by default**: fluid experiences on desktop, mobile, and browser.
+- **Solid data modeling**: relational schemas built for integrity and query performance.
+
+---
+
+<div align="center">
+
+### Let's build something great
+
+<a href="https://github.com/Sami7ma"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" alt="" width="100%" />
+
+</div>
