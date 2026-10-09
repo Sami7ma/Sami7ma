@@ -10,9 +10,10 @@
 </div>
 
 
+
 ## ✦ About
 
-I design and build user-centric software, from responsive web interfaces to cross-platform mobile apps and database-driven desktop systems. I care about readable code, modular components, and experiences that feel effortless to use.
+I design and build user-centric software, from responsive web interfaces to cross platform mobile apps and database-driven desktop systems. I care about readable code, modular components, and experiences that feel effortless to use.
 
 ```ts
 const samuel = {
@@ -22,7 +23,7 @@ const samuel = {
 };
 ```
 
----
+
 
 ## ✦ Featured Projects
 
@@ -46,7 +47,7 @@ const samuel = {
   </tr>
 </table>
 
----
+
 
 ## ✦ Tech Stack
 
@@ -56,7 +57,7 @@ const samuel = {
 <br/>
 <img src="https://skillicons.dev/icons?i=react,flutter,vite,tailwind,mysql&theme=dark" alt="Frameworks and databases" />
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,eslint&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,eslint&theme=dark" alt="Tools" />
 
 </div>
 
@@ -68,7 +69,7 @@ const samuel = {
 | **Databases** | Microsoft SQL Server, MySQL |
 | **Workflow** | Git, GitHub, VS Code, Postman, ESLint |
 
----
+
 
 ## ✦ Engineering Principles
 
@@ -77,7 +78,7 @@ const samuel = {
 - **Cross-platform by default**: fluid experiences on desktop, mobile, and browser.
 - **Solid data modeling**: relational schemas built for integrity and query performance.
 
----
+
 
 <div align="center">
 
