@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=190&section=header&text=Samuel%20Mifta&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Developer&descSize=18&descAlignY=60" alt="Samuel Mifta" width="100%" />
 
 <a href="https://github.com/Sami7ma">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1600&color=818CF8&center=true&vCenter=true&width=560&lines=Clean%2C+performant+apps+across+web+and+mobile;Building+Bankoni+right+now;React+Native+%C2%B7+Flutter+%C2%B7+TypeScript+%C2%B7+Java" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1600&color=818CF8&center=true&vCenter=true&width=560&lines=Clean%2C+performant+apps+across+web+and+mobile;React+Native+%C2%B7+Flutter+%C2%B7+TypeScript+%C2%B7+Java" alt="Typing animation" />
 </a>
 
 <br/>
@@ -22,14 +22,9 @@ I design and build user-centric software, from responsive web interfaces to cros
 const samuel = {
   role: "Software Developer",
   focus: ["Web", "Mobile", "Desktop"],
-  currentlyBuilding: "Bankoni",
   values: ["Clean code", "Modular design", "Great UX"],
 };
 ```
-
-## ✦ Currently Building
-
-> **Bankoni** is my current focus, and I'm putting everything I've learned from MoniVO and my other projects into it. More soon.
 
 ## ✦ Featured Projects
 
@@ -72,8 +67,6 @@ const samuel = {
 | **State & Data** | TanStack Query, Zustand, Axios, REST APIs |
 | **Databases** | Microsoft SQL Server, MySQL |
 | **Workflow** | Git, GitHub, Docker, Linux, VS Code, Postman, ESLint |
-
-
 
 ## ✦ Engineering Principles
 
