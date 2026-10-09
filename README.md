@@ -11,7 +11,6 @@
 <a href="https://www.linkedin.com/in/samuel-mifta-062aaa263/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=818cf8" alt="LinkedIn" /></a>
 <a href="mailto:samuelmifta@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=818cf8" alt="Email" /></a>
 <a href="https://t.me/sami7ma"><img src="https://img.shields.io/badge/Telegram-0f172a?style=for-the-badge&logo=telegram&logoColor=818cf8" alt="Telegram" /></a>
-<img src="https://img.shields.io/github/followers/Sami7ma?style=for-the-badge&color=6366f1&labelColor=0f172a" alt="Followers" />
 
 </div>
 
