@@ -57,7 +57,7 @@ const samuel = {
 <br/>
 <img src="https://skillicons.dev/icons?i=react,flutter,vite,tailwind,mysql&theme=dark" alt="Frameworks and databases" />
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,eslint&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux,eslint&theme=dark" alt="Tools" />
 
 </div>
 
