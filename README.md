@@ -74,14 +74,7 @@ const samuel = {
 | **Databases** | Microsoft SQL Server, MySQL |
 | **Workflow** | Git, GitHub, Docker, Linux, VS Code, Postman, ESLint |
 
-## ✦ GitHub Activity
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sami7ma&show_icons=true&hide_border=true&bg_color=0f172a&title_color=818cf8&icon_color=6366f1&text_color=cbd5e1" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sami7ma&layout=compact&hide_border=true&bg_color=0f172a&title_color=818cf8&text_color=cbd5e1" alt="Top languages" />
-
-</div>
 
 ## ✦ Engineering Principles
 
