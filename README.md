@@ -2,28 +2,35 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=190&section=header&text=Samuel%20Mifta&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Developer&descSize=18&descAlignY=60" alt="Samuel Mifta" width="100%" />
 
-**Clean, performant apps across web, mobile, and desktop.**
+<a href="https://github.com/Sami7ma">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1600&color=818CF8&center=true&vCenter=true&width=560&lines=Clean%2C+performant+apps+across+web+and+mobile;Building+Bankoni+right+now;React+Native+%C2%B7+Flutter+%C2%B7+TypeScript+%C2%B7+Java" alt="Typing animation" />
+</a>
 
-<a href="https://github.com/Sami7ma"><img src="https://img.shields.io/badge/GitHub-Sami7ma-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<br/>
+
+<a href="https://www.linkedin.com/in/samuel-mifta-062aaa263/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=818cf8" alt="LinkedIn" /></a>
+<a href="mailto:samuelmifta@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=818cf8" alt="Email" /></a>
+<a href="https://t.me/sami7ma"><img src="https://img.shields.io/badge/Telegram-0f172a?style=for-the-badge&logo=telegram&logoColor=818cf8" alt="Telegram" /></a>
 <img src="https://img.shields.io/github/followers/Sami7ma?style=for-the-badge&color=6366f1&labelColor=0f172a" alt="Followers" />
 
 </div>
 
-
-
 ## ✦ About
 
-I design and build user-centric software, from responsive web interfaces to cross platform mobile apps and database-driven desktop systems. I care about readable code, modular components, and experiences that feel effortless to use.
+I design and build user-centric software, from responsive web interfaces to cross-platform mobile apps and database-driven desktop systems. I care about readable code, modular components, and experiences that feel effortless to use.
 
 ```ts
 const samuel = {
   role: "Software Developer",
   focus: ["Web", "Mobile", "Desktop"],
+  currentlyBuilding: "Bankoni",
   values: ["Clean code", "Modular design", "Great UX"],
 };
 ```
 
+## ✦ Currently Building
 
+> **Bankoni** is my current focus, and I'm putting everything I've learned from MoniVO and my other projects into it. More soon.
 
 ## ✦ Featured Projects
 
@@ -47,8 +54,6 @@ const samuel = {
   </tr>
 </table>
 
-
-
 ## ✦ Tech Stack
 
 <div align="center">
@@ -67,9 +72,16 @@ const samuel = {
 | **Frontend & Mobile** | React, React Native (Expo), Flutter, Java Swing, Vite, Tailwind CSS / NativeWind |
 | **State & Data** | TanStack Query, Zustand, Axios, REST APIs |
 | **Databases** | Microsoft SQL Server, MySQL |
-| **Workflow** | Git, GitHub, VS Code, Postman, ESLint |
+| **Workflow** | Git, GitHub, Docker, Linux, VS Code, Postman, ESLint |
 
+## ✦ GitHub Activity
 
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sami7ma&show_icons=true&hide_border=true&bg_color=0f172a&title_color=818cf8&icon_color=6366f1&text_color=cbd5e1" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sami7ma&layout=compact&hide_border=true&bg_color=0f172a&title_color=818cf8&text_color=cbd5e1" alt="Top languages" />
+
+</div>
 
 ## ✦ Engineering Principles
 
@@ -78,13 +90,11 @@ const samuel = {
 - **Cross-platform by default**: fluid experiences on desktop, mobile, and browser.
 - **Solid data modeling**: relational schemas built for integrity and query performance.
 
-
-
 <div align="center">
 
 ### Let's build something great
 
-<a href="https://github.com/Sami7ma"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+<a href="mailto:samuelmifta@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-6366f1?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" alt="" width="100%" />
 
