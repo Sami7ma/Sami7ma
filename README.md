@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=190&section=header&text=Samuel%20Mifta&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Developer&descSize=18&descAlignY=60" alt="Samuel Mifta" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Samuel%20Mifta&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Developer&descSize=18&descAlignY=60" alt="Samuel Mifta" width="100%" />
 
 <a href="https://github.com/Sami7ma">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1600&color=818CF8&center=true&vCenter=true&width=560&lines=Clean%2C+performant+apps+across+web+and+mobile;React+Native+%C2%B7+Flutter+%C2%B7+TypeScript+%C2%B7+Java" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1600&color=818CF8&center=true&vCenter=true&width=600&lines=Clean%2C+performant+apps+across+web+and+mobile;React+Native+%C2%B7+Flutter+%C2%B7+TypeScript+%C2%B7+Java" alt="Typing animation" />
 </a>
 
 <br/>
@@ -16,7 +16,7 @@
 
 ## ✦ About
 
-I design and build user-centric software, from responsive web interfaces to cross-platform mobile apps and database-driven desktop systems. I care about readable code, modular components, and experiences that feel effortless to use.
+I design and build user-centric software, spanning responsive web interfaces, cross-platform mobile apps, and database-driven desktop systems. My work is guided by three priorities: readable code, modular architecture, and interfaces that feel effortless to use.
 
 ```ts
 const samuel = {
@@ -30,19 +30,26 @@ const samuel = {
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <h3>🏦 <a href="https://github.com/Sami7ma/Bankoni">BanKoni</a></h3>
+      <p>Local-first personal finance tracker for Android and iOS. Tracks income, expenses, wallets, and budgets in ETB, with all data stored securely on-device.</p>
+      <sub><b>React Native · Expo · TypeScript · SQLite · Zustand</b></sub>
+    </td>
+    <td width="50%" valign="top">
       <h3>💸 <a href="https://github.com/firaflash/expense-tracker">MoniVO</a></h3>
       <p>Cross-platform personal finance app for expense tracking, category budgeting, and financial monitoring.</p>
       <sub><b>React Native · Expo · TypeScript · Zustand · NativeWind</b></sub>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🌱 <a href="https://github.com/Sami7ma/AgriAgent">AgriAgent</a></h3>
       <p>Agricultural management app delivering structured data and decision workflows for modern farming.</p>
       <sub><b>Flutter · Dart · REST APIs</b></sub>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>💊 <a href="https://github.com/Sami7ma/Pharmacy-GUI">Pharmacy System</a></h3>
-      <p>Desktop suite managing pharmacy inventory, supplier orders, customers, and transactions.</p>
+      <p>Desktop suite for managing pharmacy inventory, supplier orders, customers, and transactions.</p>
       <sub><b>Java · Swing · SQL Server · JDBC</b></sub>
     </td>
   </tr>
@@ -60,20 +67,20 @@ const samuel = {
 
 </div>
 
-| | |
+| Category | Technologies |
 | :-- | :-- |
 | **Languages** | TypeScript, JavaScript (ES6+), Dart, Java, SQL, HTML5, CSS3 |
-| **Frontend & Mobile** | React, React Native (Expo), Flutter, Java Swing, Vite, Tailwind CSS / NativeWind |
+| **Frontend & Mobile** | React, React Native (Expo), Flutter, Java Swing, Vite, Tailwind CSS, NativeWind |
 | **State & Data** | TanStack Query, Zustand, Axios, REST APIs |
-| **Databases** | Microsoft SQL Server, MySQL |
+| **Databases** | Microsoft SQL Server, MySQL, SQLite |
 | **Workflow** | Git, GitHub, Docker, Linux, VS Code, Postman, ESLint |
 
 ## ✦ Engineering Principles
 
-- **Component-driven architecture**: reusable UI with clear separation of concerns.
-- **Predictable state**: reliable async data fetching and centralized client state.
-- **Cross-platform by default**: fluid experiences on desktop, mobile, and browser.
-- **Solid data modeling**: relational schemas built for integrity and query performance.
+- **Component-driven architecture.** Reusable UI with clear separation of concerns.
+- **Predictable state.** Reliable async data fetching and centralized client state.
+- **Cross-platform by default.** Consistent experiences across desktop, mobile, and browser.
+- **Solid data modeling.** Relational schemas designed for integrity and query performance.
 
 <div align="center">
 
