@@ -8,6 +8,8 @@
 
 <br/>
 
+<a href="https://sami7ma.github.io/Sami7ma/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
+
 <a href="https://www.linkedin.com/in/samuel-mifta-062aaa263/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=818cf8" alt="LinkedIn" /></a>
 <a href="mailto:samuelmifta@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=818cf8" alt="Email" /></a>
 <a href="https://t.me/sami7ma"><img src="https://img.shields.io/badge/Telegram-0f172a?style=for-the-badge&logo=telegram&logoColor=818cf8" alt="Telegram" /></a>
@@ -17,6 +19,8 @@
 ## ✦ About
 
 I design and build user-centric software, spanning responsive web interfaces, cross-platform mobile apps, and database-driven desktop systems. My work is guided by three priorities: readable code, modular architecture, and interfaces that feel effortless to use.
+
+> 🌐 The full portfolio, with a BanKoni case study and an interactive toolbox, lives at **[sami7ma.github.io/Sami7ma](https://sami7ma.github.io/Sami7ma/)**.
 
 ```ts
 const samuel = {
@@ -30,24 +34,18 @@ const samuel = {
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🏦 <a href="https://github.com/Sami7ma/Bankoni">BanKoni</a></h3>
-      <p>Local-first personal finance tracker for Android and iOS. Tracks income, expenses, wallets, and budgets in ETB, with all data stored securely on-device.</p>
+    <td width="33%" valign="top">
+      <h3>🏦 <a href="https://sami7ma.github.io/Sami7ma/bankoni.html">BanKoni</a></h3>
+      <p>Local-first personal finance tracker for Android and iOS. Wallets, budgets and analytics in ETB, with all data kept on-device.</p>
       <sub><b>React Native · Expo · TypeScript · SQLite · Zustand</b></sub>
+      <br/><sub><a href="https://github.com/Sami7ma/Bankoni">Source</a></sub>
     </td>
-    <td width="50%" valign="top">
-      <h3>💸 <a href="https://github.com/firaflash/expense-tracker">MoniVO</a></h3>
-      <p>Cross-platform personal finance app for expense tracking, category budgeting, and financial monitoring.</p>
-      <sub><b>React Native · Expo · TypeScript · Zustand · NativeWind</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🌱 <a href="https://github.com/Sami7ma/AgriAgent">AgriAgent</a></h3>
       <p>Agricultural management app delivering structured data and decision workflows for modern farming.</p>
       <sub><b>Flutter · Dart · REST APIs</b></sub>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>💊 <a href="https://github.com/Sami7ma/Pharmacy-GUI">Pharmacy System</a></h3>
       <p>Desktop suite for managing pharmacy inventory, supplier orders, customers, and transactions.</p>
       <sub><b>Java · Swing · SQL Server · JDBC</b></sub>
@@ -61,7 +59,7 @@ const samuel = {
 
 <img src="https://skillicons.dev/icons?i=ts,js,dart,java,html,css&theme=dark" alt="Languages" />
 <br/>
-<img src="https://skillicons.dev/icons?i=react,flutter,vite,tailwind,mysql&theme=dark" alt="Frameworks and databases" />
+<img src="https://skillicons.dev/icons?i=react,flutter,vite,tailwind,mysql,sqlite&theme=dark" alt="Frameworks and databases" />
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux,eslint&theme=dark" alt="Tools" />
 
@@ -86,7 +84,8 @@ const samuel = {
 
 ### Let's build something great
 
-<a href="mailto:samuelmifta@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-6366f1?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch" /></a>
+<a href="https://sami7ma.github.io/Sami7ma/"><img src="https://img.shields.io/badge/Visit%20the%20portfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit the portfolio" /></a>
+<a href="mailto:samuelmifta@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-0f172a?style=for-the-badge&logo=gmail&logoColor=818cf8" alt="Get in touch" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" alt="" width="100%" />
 
