@@ -41,9 +41,9 @@ const samuel = {
       <br/><sub><a href="https://github.com/Sami7ma/Bankoni">Source</a></sub>
     </td>
     <td width="33%" valign="top">
-      <h3>🌱 <a href="https://github.com/Sami7ma/AgriAgent">AgriAgent</a></h3>
-      <p>Agricultural management app delivering structured data and decision workflows for modern farming.</p>
-      <sub><b>Flutter · Dart · REST APIs</b></sub>
+      <h3>📊 <a href="https://github.com/Sami7ma/AlgoVisuals">AlgoVisuals</a></h3>
+      <p>Interactive visualizer that makes data structures, algorithms and operating system concepts easy to see and understand, step by step.</p>
+      <sub><b>React · Vite · JavaScript</b></sub>
     </td>
     <td width="33%" valign="top">
       <h3>💊 <a href="https://github.com/Sami7ma/Pharmacy-GUI">Pharmacy System</a></h3>
